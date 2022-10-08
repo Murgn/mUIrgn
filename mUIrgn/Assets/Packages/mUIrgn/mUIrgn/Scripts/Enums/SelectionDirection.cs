@@ -4,6 +4,5 @@
     {
         Horizontal,
         Vertical,
-        Hybrid
     }
 }
